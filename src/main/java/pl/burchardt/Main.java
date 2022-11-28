@@ -2,7 +2,7 @@ package pl.burchardt;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello Poland!");
+        System.out.println("Hello Jakub!");
     }
     private void displayText() {
         System.out.println("zmiana w drugim repo");
